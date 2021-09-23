@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af1a39c3e2abc6923bef",
+    "revision": "714978fdbbd61e3f8501",
     "url": "css/app.8e0bb2c7.css"
   },
   {
@@ -102,26 +102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c503576a5d4e4495dea7a4234ff21e2",
     "url": "img/icons.3b553c09.svg"
-  },
-  {
-    "revision": "9c24555eac795d9a58ed2a4264801200",
-    "url": "img/menu-01-convert.9c24555e.jpg"
-  },
-  {
-    "revision": "5a1bec5dd5a5aa7d4136f9ca36fd8702",
-    "url": "img/menu-02-convert.5a1bec5d.jpg"
-  },
-  {
-    "revision": "01815ff7a3fc2e30dbc2900ab38598d6",
-    "url": "img/menu-03-convert.01815ff7.jpg"
-  },
-  {
-    "revision": "39b702ce066ec1a0facdbd4990c301fc",
-    "url": "img/menu-04-convert.39b702ce.jpg"
-  },
-  {
-    "revision": "7eebaf7dd75137006e5322705c76c6ea",
-    "url": "img/menu-05-convert.7eebaf7d.jpg"
   },
   {
     "revision": "36983896590ef1b95c96c9fc50aa368d",
@@ -284,12 +264,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/taycan_21_2.89a59d3e.webp"
   },
   {
-    "revision": "772d39a408dc79854489fd5ffe515be2",
+    "revision": "c43e6b9050bbd52d9ab1c22f244fda9c",
     "url": "index.html"
   },
   {
-    "revision": "af1a39c3e2abc6923bef",
-    "url": "js/app.38624b57.js"
+    "revision": "714978fdbbd61e3f8501",
+    "url": "js/app.0958dd31.js"
   },
   {
     "revision": "06eb1970ef320992e0dd",
@@ -316,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-5691f6da.963e66e2.js"
   },
   {
-    "revision": "483aba46a99d20b57405",
-    "url": "js/chunk-c302bd94.57a6c488.js"
+    "revision": "56ff72335b6f97ea8ed1",
+    "url": "js/chunk-91c0e260.e78e6a10.js"
   },
   {
     "revision": "62adc814790b17abdc88",
@@ -334,22 +314,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "212ab9aae87dc0f6893874df0941e847",
     "url": "manifest.json"
-  },
-  {
-    "revision": "a8cb8c4a177c3cdcb6ae2021b4c3ee4f",
-    "url": "media/menu-01-convert.a8cb8c4a.mp4"
-  },
-  {
-    "revision": "6f0a730a4aff5abc7ba6dab1f83242de",
-    "url": "media/menu-02-convert.6f0a730a.mp4"
-  },
-  {
-    "revision": "7d20345d524fd3c7a9a5f7fa2b264e69",
-    "url": "media/menu-03-convert.7d20345d.mp4"
-  },
-  {
-    "revision": "fbadf4fd17ef9d51d66c85539b7bff56",
-    "url": "media/menu-04-convert.fbadf4fd.mp4"
   },
   {
     "revision": "b7dd0785bb66f28323de7952b2e362ac",
