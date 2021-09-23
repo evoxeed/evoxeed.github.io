@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2134f9"],{abac:function(n,t,u){"use strict";u.r(t);var e=function(){var n=this,t=n.$createElement,u=n._self._c||t;return u("div",[u("div",[n._v("Страница 2")]),u("div",[u("button",{on:{click:function(t){return n.$router.push("/main")}}},[n._v("На главную")])])])},c=[],i=u("2877"),r={},o=Object(i["a"])(r,e,c,!1,null,null,null);t["default"]=o.exports}}]);
-//# sourceMappingURL=chunk-2d2134f9.e22a61ca.js.map
+//# sourceMappingURL=chunk-2d2134f9.b0fa041c.js.map
