@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16e9b3b0482af6da0368",
+    "revision": "3e2790d7b7111e979e52",
     "url": "css/app.e7667928.css"
   },
   {
@@ -304,12 +304,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/taycan_21_2.89a59d3e.webp"
   },
   {
-    "revision": "611c16bf6254907f8d72bbd66a126563",
+    "revision": "a6195f78cfd4c8f37f2ddb32cba0eaa3",
     "url": "index.html"
   },
   {
-    "revision": "16e9b3b0482af6da0368",
-    "url": "js/app.8b7139e0.js"
+    "revision": "3e2790d7b7111e979e52",
+    "url": "js/app.8b3eb061.js"
   },
   {
     "revision": "d1f25745232d63be8c85",
@@ -336,8 +336,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-5691f6da.c59bdd89.js"
   },
   {
-    "revision": "2baa09c0b95b2d65c8cb",
-    "url": "js/chunk-7c1ba27c.0ce3ad1e.js"
+    "revision": "f817403399e7ac54b84d",
+    "url": "js/chunk-7c1ba27c.01d47095.js"
   },
   {
     "revision": "0b378626ba994d3a69a2",
