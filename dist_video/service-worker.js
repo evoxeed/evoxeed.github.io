@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e5f5cc6f20e78c8e11d3f9acf2838ce1.js"
+  "precache-manifest.1e1f1b96e0e3dd5b33eb4b42399e3264.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "porsche"});
