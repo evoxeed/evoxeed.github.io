@@ -1,7 +1,7 @@
 import '@babel/polyfill'
 import 'mutationobserver-shim'
 import Vue from 'vue'
-import App from './App.vue'
+import App from './App.vue'dist
 import './plugins/bootstrap-vue'
 import VideoBackground from 'vue-responsive-video-background-player'
 import './registerServiceWorker'
